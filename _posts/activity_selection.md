@@ -6,7 +6,7 @@ tags: [belajar]     # TAG names should always be lowercase
 description: What is Activity Selection Problem?
 ---
 
-# Activity Selection Problem: Solusi Optimal dengan Algoritma Greedy
+# Activity Selection Problem
 
 ## 📌 Pendahuluan 
 Activity Selection Problem adalah masalah klasik dalam ilmu komputer untuk memilih jumlah aktivitas maksimum yang tidak saling tumpang tindih dari sekumpulan aktivitas dengan waktu mulai dan selesai tertentu.  
