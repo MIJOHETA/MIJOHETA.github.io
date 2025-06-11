@@ -6,7 +6,7 @@ tags: [belajar]
 description: Penjelasan dan implementasi algoritma topological sort menggunakan Kahn's Algorithm
 ---
 
-# Kahn's Algorithm: Solusi Optimal untuk Topological Sorting pada DAG
+# Kahn's Algorithm
 
 ## 📌 Pendahuluan
 Kahn's Algorithm adalah algoritma penyusunan topologi (topological sorting) yang digunakan untuk menentukan urutan valid dalam Directed Acyclic Graph (DAG) berdasarkan ketergantungan antar simpul.
