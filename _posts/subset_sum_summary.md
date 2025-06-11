@@ -1,3 +1,11 @@
+---
+title: "Subset Sum Problem"
+date: 2025-06-10 00:00:00 +0800
+categories: [desain dan analisis algoritma, subset sum problem]
+tags: [belajar]
+description: Apa itu Subset Sum Problem dan bagaimana cara menyelesaikannya?
+---
+
 # Subset Sum Problem
 
 ## Konsep Subset Sum Problem
