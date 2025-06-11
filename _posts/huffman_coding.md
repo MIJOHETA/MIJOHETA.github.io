@@ -6,7 +6,7 @@ tags: [belajar]
 description: Penjelasan lengkap tentang Huffman Coding dan bagaimana algoritma ini bekerja
 ---
 
-# Huffman Coding: Kompresi Data Optimal dengan Algoritma Greedy
+# Huffman Coding
 
 ## 📌 Pendahuluan  
 Huffman Coding adalah algoritma kompresi data *lossless* yang ditemukan oleh David A. Huffman pada tahun 1952. Algoritma ini bekerja dengan mengganti karakter yang sering muncul dengan kode biner lebih pendek, dan karakter yang jarang dengan kode lebih panjang.  
