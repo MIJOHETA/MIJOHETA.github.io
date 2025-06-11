@@ -1,11 +1,9 @@
-# Dijkstra's Algorithm - Kelompok 10
-
-**Anggota Kelompok:**
-- (H071241065) Akmal
-- (H071241047) Muhammad Arlis  
-- (H071241055) Muhammad Hairi
-- (H071241025) Zahra Aulia Putri
-
+---
+title: "Dijkstra's Algorithm"
+date: 2025-06-10 00:00:00 +0800
+categories: [desain dan analisis algoritma, graph traversal]
+tags: [belajar]
+description: Penjelasan dan implementasi Dijkstra's Algorithm
 ---
 
 ## Definisi
