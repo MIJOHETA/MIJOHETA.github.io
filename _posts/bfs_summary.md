@@ -1,12 +1,12 @@
-# Breadth-First Search (BFS) - Kelompok 7
-
-**Anggota Kelompok:**
-- (H071241033) Muh. Hanif Nurmahdin
-- (H071241093) Moch. Syech Yusuf. M
-- (H071241005) Raihan Ramadhan
-- (H071241021) Kevin Anugrah Somakila'
-
 ---
+title: "Breadth-First Search (BFS)"
+date: 2025-06-10 00:00:00 +0800
+categories: [desain dan analisis algoritma, graph traversal]
+tags: [belajar]
+description: Apa itu BFS dan bagaimana cara kerjanya dalam penelusuran graf?
+---
+
+# Breadth-First Search (BFS) 
 
 ## Pengertian
 
