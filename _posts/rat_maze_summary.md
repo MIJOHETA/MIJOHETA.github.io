@@ -1,13 +1,12 @@
-# Rat in a Maze - Backtracking Algorithm - Kelompok 6
-
-**Anggota Kelompok:**
-- (H071241037) Rizky Nur Fariid
-- (H071241087) Muh. Anugrah Ashary P.
-- (H071241029) Azizah Nurul Izzah
-- (H071241049) Nur Atika Binti Ardi
-- (H071241045) Shabrina Zahrah R.
-
 ---
+title: "Rat in a Maze Problem"
+date: 2025-06-10 00:00:00 +0800
+categories: [desain dan analisis algoritma, rat in a maze]
+tags: [belajar]
+description: Penyelesaian Rat in a Maze Problem dengan algoritma backtracking
+---
+
+# Rat in a Maze 
 
 ## Definisi
 
