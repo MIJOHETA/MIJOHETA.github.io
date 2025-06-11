@@ -1,13 +1,13 @@
-# Rangkuman Materi N-Queens Problem - Kelompok 4
-
-## Anggota Kelompok
-- **Aditya Hisbul Bahri** (H071241069)
-- **Jonas Ba'ka** (H071241031)  
-- **Akhmad Hidayat** (H071241003)
-- **As'syiekril Fikran Sarda** (H071241083)
-- **M. Fadhil Mulyadi** (H071241011)
 
 ---
+title: "N-Queens Problem"
+date: 2025-06-10 00:00:00 +0800
+categories: [desain dan analisis algoritma, N-Queens]
+tags: [belajar]
+description: Apa itu N-Queens Problem dan bagaimana cara menyelesaikannya dengan algoritma backtracking?
+---
+
+# N-Queens Problem 
 
 ## 1. Definisi Masalah N-Queens
 
