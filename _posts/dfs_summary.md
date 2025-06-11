@@ -1,4 +1,12 @@
-# Rangkuman Materi Depth First Search (DFS)
+---
+title: "Depth-First Search (DFS)"
+date: 2025-06-10 00:00:00 +0800
+categories: [desain dan analisis algoritma, graph traversal]
+tags: [belajar]
+description: Penjelasan dan implementasi algoritma DFS (Depth First Search)
+---
+
+# Depth First Search (DFS)
 
 ## 1. Pengertian Depth First Search (DFS)
 
