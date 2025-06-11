@@ -6,7 +6,7 @@ tags: [belajar]
 description: Penjelasan lengkap tentang Fractional Knapsack Problem dan solusinya dengan algoritma greedy
 ---
 
-# Fractional Knapsack: Solusi Efisien dengan Algoritma Greedy
+# Fractional Knapsack
 
 ## 📌 Pendahuluan  
 Fractional Knapsack adalah salah satu bentuk *Knapsack Problem*, sebuah permasalahan optimasi yang umum dalam algoritma. Tujuannya adalah memaksimalkan nilai barang yang dimasukkan ke dalam tas tanpa melebihi kapasitasnya. Berbeda dengan 0/1 Knapsack, dalam Fractional Knapsack kita *boleh mengambil sebagian barang*.
